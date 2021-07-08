@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="array_horse_racing">
+        <item>@drawable/a_horse</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+    </integer-array>
+    <string-array name="array_date">
+        <item>July 10 2021</item>
+        <item>July 23 2021</item>
+        <item>July 30 2021</item>
+    </string-array>
+    <string-array name="array_time">
+        <item>9:00 AM</item>
+        <item>10:00 AM</item>
+        <item>1:00 pm</item>
+    </string-array>
+    <string-array name="array_title">
+        <item>@string/channelName1</item>
+        <item>@string/channelName2</item>
+        <item>@string/channelName3</item>
+    </string-array>
+
+
+
+    <integer-array name="array_horse_racing2">
+        <item>@drawable/e</item>
+        <item>@drawable/a_horse</item>
+        <item>@drawable/c</item>
+        <item>@drawable/c</item>
+    </integer-array>
+    <string-array name="array_date2">
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+    </string-array>
+    <string-array name="array_time2">
+        <item>6:00 AM</item>
+        <item>12:00 AM</item>
+        <item>8:00 pm</item>
+        <item>1:00 pm</item>
+    </string-array>
+    <string-array name="array_title2">
+        <item>@string/channelName4</item>
+        <item>@string/channelName5</item>
+        <item>@string/channelName6</item>
+        <item>@string/channelName11</item>
+    </string-array>
+
+
+
+    <integer-array name="array_horse_racing3">
+        <item>@drawable/b</item>
+        <item>@drawable/a_horse</item>
+        <item>@drawable/b</item>
+        <item>@drawable/a_horse</item>
+    </integer-array>
+    <string-array name="array_date3">
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+    </string-array>
+    <string-array name="array_time3">
+        <item>7:00 AM</item>
+        <item>8:00 AM</item>
+        <item>3:00 pm</item>
+        <item>2:00 pm</item>
+    </string-array>
+    <string-array name="array_title3">
+        <item>@string/channelName7</item>
+        <item>@string/channelName8</item>
+        <item>@string/channelName9</item>
+        <item>@string/channelName10</item>
+    </string-array>
+
+
+
+
+    <string-array name="array_channel">
+        <item>@string/horseChannel1</item>
+        <item>@string/horseChannel2</item>
+        <item>@string/horseChannel3</item>
+        <item>@string/horseChannel4</item>
+        <item>@string/horseChannel5</item>
+        <item>@string/horseChannel6</item>
+        <item>@string/horseChannel7</item>
+        <item>@string/horseChannel8</item>
+        <item>@string/horseChannel9</item>
+        <item>@string/horseChannel10</item>
+        <item>@string/horseChannel11</item>
+    </string-array>
+
+    <string-array name="array_channel2">
+        <item>@string/horseChannel4</item>
+        <item>@string/horseChannel5</item>
+        <item>@string/horseChannel6</item>
+        <item>@string/horseChannel11</item>
+    </string-array>
+
+    <string-array name="array_channel3">
+        <item>@string/horseChannel6</item>
+        <item>@string/horseChannel7</item>
+        <item>@string/horseChannel8</item>
+        <item>@string/horseChannel9</item>
+        <item>@string/horseChannel10</item>
+    </string-array>
+
+    <string-array name="array_channel_name">
+        <item>@string/channelName1</item>
+        <item>@string/channelName2</item>
+        <item>@string/channelName3</item>
+        <item>@string/channelName4</item>
+        <item>@string/channelName5</item>
+        <item>@string/channelName6</item>
+        <item>@string/channelName7</item>
+        <item>@string/channelName8</item>
+        <item>@string/channelName9</item>
+        <item>@string/channelName10</item>
+        <item>@string/channelName11</item>
+    </string-array>
+
+    <string name="horseChannel1">1014</string>
+    <string name="horseChannel2">1015</string>
+    <string name="horseChannel3">1016</string>
+    <string name="horseChannel4">1018</string>
+    <string name="horseChannel5">1019</string>
+    <string name="horseChannel6">1020</string>
+    <string name="horseChannel7">1021</string>
+    <string name="horseChannel8">1022</string>
+    <string name="horseChannel9">1023</string>
+    <string name="horseChannel10">1024</string>
+    <string name="horseChannel11">1025</string>
+
+    <string name="channelName1">UK ATR</string>
+    <string name="channelName2">UK RACING</string>
+    <string name="channelName3">MACAU</string>
+    <string name="channelName4">AUSB SKY2</string>
+    <string name="channelName5">AUS SKY1</string>
+    <string name="channelName6">AUS SKY2</string>
+    <string name="channelName7">SG 88 CN</string>
+    <string name="channelName8">SG 88 EN/HK EN</string>
+    <string name="channelName9">SG 89</string>
+    <string name="channelName10">-SG 89-</string>
+    <string name="channelName11">AUSB SKY1</string>
+
+</resources>

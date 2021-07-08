@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="horseUrl">https://3webasketball.com/ninety-six-group-api/public/latest/stream/1014/122.54.234.103/getflvlink</string>
+
+    <string name="horseUrl2">https://3webasketball.com/ninety-six-group-api/public/latest/stream/1014/122.54.234.103/geth5link</string>
+
+
+
+</resources>

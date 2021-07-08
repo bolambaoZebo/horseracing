@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/channel1"
+        android:icon="@drawable/ic_baseline_tv_24"
+        android:title="Channel 1" />
+    <item
+        android:id="@+id/channel2"
+        android:icon="@drawable/ic_baseline_tv_24"
+        android:title="Channel 2" />
+    <item
+        android:id="@+id/channel3"
+        android:icon="@drawable/ic_baseline_tv_24"
+        android:title="Channel 3" />
+    <item
+        android:id="@+id/channel4"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="false"
+        android:title="" />
+    <item
+        android:id="@+id/channel5"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="false"
+        android:title="" />
+
+    <group android:id="@+id/nav_footer">
+        <item
+            android:id="@+id/nav_footer_31"
+            android:enabled="false"
+            android:title="" />
+        <item
+            android:id="@+id/nav_footer_32"
+            android:enabled="false"
+            android:title="" />
+        <item
+            android:id="@+id/nav_footer_1"
+            android:title="Visit Youtube" />
+        <item
+            android:id="@+id/nav_footer_2"
+            android:title="Visit Facebook" />
+    </group>
+
+</menu>
